@@ -1,0 +1,4 @@
+
+Person{id=1, name='Victor Sanz', occupation='Informatico', age=23}
+Person{id=2, name='Marcel Boch', occupation='Profesor', age=30}
+Person{id=3, name='Hector Gomez', occupation='Profesor', age=35}
